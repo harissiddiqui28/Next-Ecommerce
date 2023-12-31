@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hero{
+
+    color: transparent;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+
+
+}
+.custom-card {
+    border: 2px solid #e2e8f0;
+  }
