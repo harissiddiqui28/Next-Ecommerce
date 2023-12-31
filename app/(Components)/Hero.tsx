@@ -22,7 +22,7 @@ return (
          
          
         <div className="flex items-center justify-center">
-  <Image src="/images/hone.png" alt="Logo" width={1100} height={400} objectFit="fill" className=" hero" />
+  <Image src="/images/Hone-min.png" alt="Logo" width={1100} height={400} objectFit="fill" className=" hero" />
 </div>
         
         {/* </Slider> */}
